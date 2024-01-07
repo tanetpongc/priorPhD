@@ -1,7 +1,7 @@
 # Tanetpong Choungprayoon
 
 
-This page showcases my professional journey from 2014 to 2018, a period marked by significant contributions in academic and profession in Thailand. As an Undergraduate Intelligence Scholarship Recipient, II was assigned to the Fiscal Policy Office, Ministry of Finance, Thailand, as an Economist, where my role extended beyond policy development. My work encompassed stakeholder management, dealing with diverse groups from the industry, extensive research, article writing, and media and interactions. Additionally, I embraced the role of an educator, imparting knowledge through academic research and teaching. Here, you will find a compilation of relevant working materials that reflect these diverse aspects of my professional experience in Thailand.
+This page showcases my professional journey from 2014 to 2018, a period marked by significant contributions in academic and profession in Thailand. As an Undergraduate Intelligence Scholarship Recipient, I was assigned to the Fiscal Policy Office, Ministry of Finance, Thailand, as an Economist, where my role extended beyond policy development. My work encompassed stakeholder management, dealing with diverse groups from the industry, extensive research, article writing, and media and interactions. Additionally, I embraced the role of an educator, imparting knowledge through academic research and teaching. Here, you will find a compilation of relevant working materials that reflect these diverse aspects of my professional experience in Thailand.
 
 
 ---
