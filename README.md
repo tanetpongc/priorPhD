@@ -1,7 +1,7 @@
 # Tanetpong Choungprayoon
 
 
-This page showcases my professional journey from 2014 to 2018, a period marked by significant contributions in academic and profession in Thailand. As an Undergraduate Intelligence Scholarship Recipient, I was assigned to the Fiscal Policy Office, Ministry of Finance, Thailand, as an Economist, where my role extended beyond policy development. My work encompassed stakeholder management, dealing with diverse groups from the industry, extensive research, article writing, and media and interactions. Additionally, I embraced the role of an educator, imparting knowledge through academic research and teaching. Here, you will find a compilation of relevant working materials that reflect these diverse aspects of my professional experience in Thailand.
+This page showcases my professional journey from 2014 to 2018, a period marked by significant contributions in academic and profession in Thailand. As an Undergraduate-Intelligence-Scholarship (UIS) recipient, I was assigned to the Fiscal Policy Office, Ministry of Finance, Thailand, as an economist, where my role extended beyond policy development. My work encompassed stakeholder management, dealing with multiple industry representatives, conducting extensive research, writing academic and non-academic articlues, and engaging with the media. Additionally, I embraced the role of an educator, imparting knowledge through academic research and teaching. Here, you will find a compilation of relevant working materials that reflect these diverse aspects of my professional experience in Thailand.
 
 
 ---
@@ -9,11 +9,15 @@ This page showcases my professional journey from 2014 to 2018, a period marked b
 ## Economist at Fiscal Policy Office, Ministry of Finance
  
 *2014 – 2018*
-- Design, propose and analyze new tax policies in order to support government goals; raising health awareness in unhealthy products, encouraging efficiency use of energy and promoting sustainable consumption by reducing consumption in luxurious goods and services
-- Communicate with private and public agencies and provide relevant information associated with excise tax to educate and correct public misunderstanding about taxation
-- Attended various regional forums and workshops on NCDs prevention and tobacco taxation
-- Collaborate and coordinate with other ministries, e.g. Ministry of Health, Ministry of Industry in designing policy evaluation framework regarding to public response to tax and non-tax measures
+
+**Tax Policy Development**
+- Designed, proposed and analyzed new tax policies in order to support government goals; raising health awareness in unhealthy products, encouraging efficiency use of energy and promoting sustainable consumption by reducing consumption in luxurious goods and services
 - Proposed a tax on sugar-sweetened beverages based on the amount of sugar contained in one serving size to reflect health concerns in addition to the concerns over consumptions of unnecessary goods; the tax has become effective on 16 September 2017
+
+**Stakeholder Management**
+- Communicated with private and public agencies and provide relevant information associated with excise tax to educate and correct public misunderstanding about taxation
+- Attended various regional forums and workshops on NCDs prevention and tobacco taxation
+- Collaborated and coordinate with other ministries, e.g. Ministry of Health, Ministry of Industry in designing policy evaluation framework regarding to public response to tax and non-tax measures
 
 Supplementary material: [Sugar Sweetened Beverages (SSBs) Taxation Overview (As of March 2018)](material/PPTSSBsCircular.pdf)
 
