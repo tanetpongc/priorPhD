@@ -37,8 +37,8 @@ Responsibility: Conducted a study on land value assessment for land and structur
 
 **Guest Lecturer**  
 Master of Business Economics, Thammasat University  
-Topic: Behavioral Economics  
-*Oct 2017*
+Topic: Behavioral Economics, Research Methodology  
+*Oct 2017, April 2018*
 
 **Teaching Assistant**  
 Bachelor of Economics International Program, Thammasat University  
